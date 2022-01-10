@@ -1,0 +1,15 @@
+.board {
+  margin: auto;
+  width: 50%;
+}
+.square {
+  height: 640px;
+  width: 640px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.squareImage {
+  height: 80px;
+  width: 80px;
+}
